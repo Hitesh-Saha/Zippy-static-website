@@ -9,7 +9,7 @@ This is a simple static website template built using HTML, CSS, and Bootstrap5.
 
 ## Demo
 
-Check out the live demo [here](deployed-url-goes-here).
+Check out the live demo [here](https://hitesh-saha.github.io/Zippy-static-website/).
 
 ## Installation
 
@@ -24,10 +24,9 @@ git clone https://github.com/Hitesh-Saha/Zippy-static-website.git
 ## Folder Structure
 
 ```
-static-website/
-│
+Zippy-static-website/
 ├── index.html
-├── styles.css
+├── style.css
 ```
 
 ## Usage
